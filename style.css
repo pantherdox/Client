@@ -232,6 +232,15 @@ button {
     text-align: center;
 }
 
+.rcon{
+    background-color: rgba(0, 0, 0, 0.466);
+    text-align: center;
+    padding-block: 50px;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-inline: auto;
+}
 
 p{
     font-size: larger;
